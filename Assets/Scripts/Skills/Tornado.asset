@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b8af44cb770d394c9b009f9a18eb582, type: 3}
+  m_Name: Tornado
+  m_EditorClassIdentifier: 
+  type: {fileID: 8897772136260572233, guid: 734cbb993cf0958458a89135ec39703e, type: 3}
+  model: {fileID: 21300000, guid: 29dd3e6477510b649990c2e64ea0abb6, type: 3}
+  cursor: {fileID: 0}
+  iconBordaDefault: {fileID: 21300000, guid: 77b74e38990b59e43a8fc19b2ec25afe, type: 3}
+  iconBordaSelected: {fileID: 21300000, guid: ce82f00122059b04a90bc9086ef0ae3f, type: 3}
+  delay: 0
+  damage: 2
+  countdown: 5
